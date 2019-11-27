@@ -66,7 +66,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/markserv/markserv.git"
+    "url": "http://github.com/e40/markserv.git"
   },
   "dependencies": {
     "analyze-deps": "^2.0.0",
@@ -90,10 +90,11 @@
     "markdown-it-mathjax": "^2.0.0",
     "markdown-it-table-of-contents": "^0.4.4",
     "markdown-it-task-lists": "^2.1.1",
-    "meow": "^6.0.0",
-    "micromatch": "^4.0.2",
-    "mime": "^2.4.4",
-    "open": "^6.0.0",
+    "meow": "^5.0.0",
+    "micromatch": "^3.1.3",
+    "mime": "^1.4.1",
+    "opn": "^5.3.0",
+    "markserv": "git+ssh://git@github.com:e40/markserv.git",
     "promptly": "^3.0.3",
     "send": "^0.17.1",
     "snyk": "^1.266.0",
